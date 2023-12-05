@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\bin\Debug\net7.0\Aplication.deps.json
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\bin\Debug\net7.0\Aplication.dll
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\bin\Debug\net7.0\Aplication.pdb
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\bin\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.AssemblyInfo.cs
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.csproj.CopyComplete
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.dll
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\refint\Aplication.dll
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\Aplication.pdb
+C:\Users\user\Desktop\PruebaMigraciones\Aplication\obj\Debug\net7.0\ref\Aplication.dll
